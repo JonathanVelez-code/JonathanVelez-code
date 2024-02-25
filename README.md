@@ -7,3 +7,7 @@ H1
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanVelez-code&size_weight=0.30&count_weight=0.70&langs_count=6&layout=compact&theme=tokyonight&hide_border=true" width="400px"/>
 </div>
+
+<div>
+  <img align="center" src="https://streak-stats.demolab.com?user=JonathanVelez-code&theme=tokyonight&hide_border=true" width="400px"/>
+</div>
